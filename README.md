@@ -1,6 +1,6 @@
 # Sobre mim
 
-Olá, meu nome é Rhuan dos Santos Félix e sou estudante no curso de Sistemas para Internet no IFPB - Guarabira.
+Olá, meu nome é Rhuan dos Santos Félix e sou estudante no curso de Sistemas para Internet no IFPB - Guarabira. Gosto muito de programação e pretendo me tornar um desenvolvedor back-end.
 
 # Entre em contato
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rhuansantosfelix@gmail.com)
