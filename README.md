@@ -4,7 +4,7 @@ Olá, meu nome é Rhuan dos Santos Félix e sou estudante no curso de Sistemas p
 
 # Entre em contato
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rhuansantosfelix@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhuandossantosfelix/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhuan-f%C3%A9lix-a974a2360/)
 
 # Tecnologias que conheço
 
