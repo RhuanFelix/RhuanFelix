@@ -1,6 +1,6 @@
 # Sobre mim
 
-Olá, meu nome é Rhuan dos Santos Félix, sou estudante no curso de Sistemas para Internet no IFPB - Guarabira; atualmente estou no 4º período. Meu principal interesse é o desenvolvimento Back-End com foco em Java e Spring Boot.
+Olá, meu nome é Rhuan dos Santos Félix, sou estudante no curso de Sistemas para Internet no IFPB - Guarabira; atualmente estou no 5º período. Meu principal interesse é o desenvolvimento Back-End com foco em Java e Spring Boot.
 
 # Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhuan-f%C3%A9lix-a974a2360/)
